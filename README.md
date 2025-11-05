@@ -106,7 +106,7 @@ ais_ga_agrovolt_heatmap.png	Feature correlation matrix
 ais_ga_agrovolt_comparison_graph.png	Scatter plot of Actual vs Predicted
 ais_ga_agrovolt_result_graph.png	Line plot comparison (first 200 samples)
 
-![Confusion Matrix Heatmap](agrovolt_result_graph.png)
+![Confusion Matrix Heatmap](ais_ga_agrovolt_result_graph.png)
 
 💾 Sample Output Files
 
