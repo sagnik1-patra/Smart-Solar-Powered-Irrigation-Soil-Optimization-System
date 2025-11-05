@@ -1,4 +1,4 @@
-🌞 AgroVolt — Smart Solar-Powered Irrigation & Soil Optimization System
+🌞 AgroVolt — Smart Solar-Powered Irrigation & Soil Optimization System.
 🔬 Hybrid AIS + GA Optimized CNN-LSTM Model
 📘 Overview
 
