@@ -1,6 +1,6 @@
 🌞 AgroVolt — Smart Solar-Powered Irrigation & Soil Optimization System.
 🔬 Hybrid AIS + GA Optimized CNN-LSTM Model.
-📘 Overview
+📘 Overview-
 
 AgroVolt is an AI-driven irrigation and solar-energy management platform designed for precision agriculture.
 It intelligently coordinates soil moisture, weather, and solar availability to optimize irrigation scheduling and energy usage — powered entirely by clean solar energy.
